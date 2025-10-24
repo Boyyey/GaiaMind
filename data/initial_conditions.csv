@@ -1,0 +1,9 @@
+Parameter,Value,Description
+Population,8000000000.0,Initial world population
+Energy,1000.0,Initial energy consumption
+Pollution,50.0,Initial pollution level (0-100)
+RenewableRatio,0.2,Initial renewable energy ratio (0-1)
+Economy,100.0,Initial economy index
+TemperatureRiseRate,0.02,Rate of temperature rise per year
+PopulationGrowth,0.01,Annual population growth rate
+AIPolicyEfficiency,0.5,AI policy adjustment efficiency (0-1)
