@@ -63,6 +63,5 @@ gaiamind/
 - Publish as research: "Agent-Based AI Simulation for Global Sustainability".
 
 📄 **License**
-MIT License – Copyright (c) 2023 AmirHosseinRasti. See LICENSE for details.
+MIT License – Copyright (c) 2025 AmirHosseinRasti. See LICENSE for details.
 
-This is your 120th project – let's make it legendary! 🚀
