@@ -1,6 +1,7 @@
 # GaiaMind: The Planetary Intelligence Simulator
 
 🌍 **Concept**
+
 A C + Python hybrid system that models Earth’s ecosystems, energy flow, and human impact using AI-driven agents. It simulates a mini Earth where AI agents (humans, companies, nature systems) interact, learn, and adapt to maintain sustainability or face collapse. Think of it as a climate + economics + population + energy neural simulation engine.
 
 🧠 **What It Does**
