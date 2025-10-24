@@ -39,7 +39,7 @@ gaiamind/
    - Optional: Real-time data APIs (e.g., NOAA, Open-Meteo).
 2. **Clone and Navigate**:
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/Boyyey/GaiaMind.git
    cd gaiamind
    ```
 3. **Build C Engine**:
